@@ -67,7 +67,7 @@ Instructions for installing and configuring the API Python client, are provided 
 
 Additionally, [API R](https://github.com/sbg/sevenbridges-r) and [API Java](https://github.com/sbg/sevenbridges-java) clients are available. To learn more about using these API clients please refer to the [API R client documentation](https://sbg.github.io/sevenbridges-r/), and [API Java client documentation](https://docs.sevenbridges.com/docs/java-library-quickstart).
 
-### References
+### References.
 
 [1] [Broad germline SNPS and INDELS](https://github.com/gatk-workflows/gatk4-germline-snps-indels)
 
