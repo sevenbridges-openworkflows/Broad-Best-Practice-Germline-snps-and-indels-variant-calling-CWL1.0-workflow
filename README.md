@@ -1,3 +1,5 @@
+[![CWLtool validation](https://travis-ci.com/sevenbridges-openworkflows/Broad-Best-Practice-Germline-snps-and-indels-variant-calling-CWL1.0-workflow.svg?branch=master)](https://travis-ci.com/sevenbridges-openworkflows/Broad-Best-Practice-Germline-snps-and-indels-variant-calling-CWL1.0-workflow)
+
 ### Description
 
 This workflow represents the GATK Best Practices for SNP and INDEL calling on DNA data.
